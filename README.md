@@ -8,5 +8,3 @@ Projetos práticos que estou desenvolvendo à medida que aprendo mais sobre prog
 Front-end: HTML, CSS, JavaScript
 Back-end: Node.js, MongoDB
 🚀 Sempre em busca de novos desafios e oportunidades para evoluir como programador.
-
-📫 Quer trocar uma ideia? Fique à vontade para me chamar!

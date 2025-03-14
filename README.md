@@ -1,5 +1,7 @@
 👋 Olá! Meu nome é Kauan e estou iniciando minha jornada no mundo da programação. Desde 2024, venho estudando e desenvolvendo projetos para aprimorar minhas habilidades como desenvolvedor. Sou curioso, gosto de desafios e adoro resolver problemas através da tecnologia.
 
+📫 kauanosmattos@gmail.com
+
 💡 O que você vai encontrar por aqui?
 Projetos práticos que estou desenvolvendo à medida que aprendo mais sobre programação e tecnologia.
 
